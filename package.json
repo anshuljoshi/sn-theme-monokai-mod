@@ -1,0 +1,11 @@
+{
+  "name": "sn-theme-monokai-mod",
+  "version": "0.1",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anshuljoshi/sn-theme-monokai-mod.git"
+  }
+}
