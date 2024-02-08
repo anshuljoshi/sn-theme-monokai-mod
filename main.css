@@ -1,5 +1,4 @@
 :root {
-
     --background-1: #272822;
     --background-2: #3E3D32;
     --foreground-1: #e7d1d1;
@@ -15,10 +14,8 @@
     --sn-stylekit-info-backdrop-color: #27282266;
 
     --sn-stylekit-base-font-size: 14px;
-  
     --sn-stylekit-font-size-p: 1rem;
     --sn-stylekit-font-size-editor: 1.21rem;
-  
     --sn-stylekit-font-size-h6: 0.8rem;
     --sn-stylekit-font-size-h5: 0.9rem;
     --sn-stylekit-font-size-h4: 1rem;
@@ -73,7 +70,7 @@
   
     --sn-stylekit-monospace-font: 'Ubuntu Mono', courier, monospace;
     --sn-stylekit-sans-serif-font: -apple-system, 'Roboto', 'Ubuntu',
-      'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    'Droid Sans', 'Helvetica Neue', sans-serif;
   
     --sn-stylekit-grey-1: #72767e;
     --sn-stylekit-grey-2: #bbbec4;
@@ -90,6 +87,7 @@
     --sn-stylekit-accessory-tint-color-5: #1aa772;
     --sn-stylekit-accessory-tint-color-6: #f28c52;
 
+    --navigation-column-background-color: #161616;
     --navigation-item-selected-background-color: rgb(30, 30, 30);
     --preferences-navigation-selected-background-color: rgb(30, 30, 30);
     --item-cell-selected-background-color: rgb(30, 30, 30);
