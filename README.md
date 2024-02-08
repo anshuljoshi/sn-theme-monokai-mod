@@ -1,6 +1,6 @@
 # Standard Notes Monokai inspired theme
 
-Theme inspired by Monokai theme which are also available for Sublime Text and VS Code.
+Theme inspired by Monokai theme which is also available for Sublime Text and VS Code.
 
 ## Installation
 
