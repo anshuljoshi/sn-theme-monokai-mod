@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-monokai-mod",
-  "version": "0.2",
+  "version": "0.1",
   "sn": {
     "main": "main.css"
   },
