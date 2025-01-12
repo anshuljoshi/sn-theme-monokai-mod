@@ -13,9 +13,9 @@
     --sn-stylekit-info-color-darkened: #3E3D32;
     --sn-stylekit-info-backdrop-color: #27282266;
 
-    --sn-stylekit-base-font-size: 14px;
+    --sn-stylekit-base-font-size: 12px;
     --sn-stylekit-font-size-p: 1rem;
-    --sn-stylekit-font-size-editor: 1.21rem;
+    --sn-stylekit-font-size-editor: 1rem;
     --sn-stylekit-font-size-h6: 0.8rem;
     --sn-stylekit-font-size-h5: 0.9rem;
     --sn-stylekit-font-size-h4: 1rem;
@@ -68,9 +68,9 @@
   
     --sn-stylekit-general-border-radius: 2px;
   
-    --sn-stylekit-monospace-font: 'Ubuntu Mono', courier, monospace;
-    --sn-stylekit-sans-serif-font: -apple-system, 'Roboto', 'Ubuntu',
-    'Droid Sans', 'Helvetica Neue', sans-serif;
+    --sn-stylekit-monospace-font: 'Roboto Mono', 'Ubuntu Mono', 'Droid Sans Mono', courier, monospace;
+    --sn-stylekit-sans-serif-font: 'Roboto', 'Ubuntu',
+    'Droid Sans', 'Helvetica Neue', -apple-system, sans-serif;
   
     --sn-stylekit-grey-1: #72767e;
     --sn-stylekit-grey-2: #bbbec4;
