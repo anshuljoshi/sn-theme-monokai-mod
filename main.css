@@ -10,7 +10,7 @@
     --danger-color: #F92672;
     --border-color: #343434;
     --sn-stylekit-info-color-darkened: #7B5BD4;
-    --sn-stylekit-info-backdrop-color: #27282266;
+    --sn-stylekit-info-backdrop-color: rgba(174, 129, 255, 0.18);
 
     --sn-stylekit-base-font-size: 12px;
     --sn-stylekit-font-size-p: 1rem;
@@ -42,7 +42,7 @@
     --sn-stylekit-foreground-color: var(--foreground-1);
     --sn-stylekit-border-color: var(--border-color);
   
-    --sn-stylekit-contrast-background-color: var(--background-2);
+    --sn-stylekit-contrast-background-color: #1E1D1A;
     --sn-stylekit-contrast-foreground-color: var(--foreground-2);
     --sn-stylekit-contrast-border-color: var(--border-color);
   
@@ -68,7 +68,7 @@
     --sn-stylekit-general-border-radius: 2px;
   
     --sn-stylekit-monospace-font: 'Roboto Mono', 'Ubuntu Mono', 'Droid Sans Mono', courier, monospace;
-    --sn-stylekit-sans-serif-font: 'Roboto', 'Ubuntu',
+    --sn-stylekit-sans-serif-font: 'Inter', 'Roboto', 'Ubuntu',
     'Droid Sans', 'Helvetica Neue', -apple-system, sans-serif;
   
     --sn-stylekit-grey-1: #72767e;
@@ -78,6 +78,14 @@
     --sn-stylekit-grey-4-opacity-variant: #bbbec43d;
     --sn-stylekit-grey-5: #f4f5f7;
     --sn-stylekit-grey-6: #e5e5e5;
+
+    --sn-stylekit-passive-color-1: #2A2925;
+    --sn-stylekit-passive-color-2: #34322D;
+    --sn-stylekit-passive-color-3: #3E3B35;
+    --sn-stylekit-passive-color-4: #4A463D;
+    --sn-stylekit-passive-color-4-opacity-variant: rgba(74, 70, 61, 0.35);
+    --sn-stylekit-passive-color-5: #565044;
+    --sn-stylekit-passive-color-6: #625A4C;
   
     --sn-stylekit-accessory-tint-color-1: #086dd6;
     --sn-stylekit-accessory-tint-color-2: #ea6595;
